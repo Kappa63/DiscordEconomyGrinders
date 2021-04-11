@@ -1,3 +1,7 @@
+'''
+Author: Karim Q.
+Date: ~2019
+'''
 from pynput.keyboard import Key, Controller
 from pynput.keyboard import Listener
 import random
